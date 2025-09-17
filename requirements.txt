@@ -1,0 +1,4 @@
+fastapi>=0.104.0
+instaloader>=4.10.0
+python-dotenv>=1.0.0
+apache-airflow>=3.0.0
